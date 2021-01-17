@@ -1,0 +1,19 @@
+{
+    "name": "mycomposer/assemble",
+    "description": "is my first composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "msj",
+            "email": "763164235@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+            "psr-4": {
+                "myfirst\\assemble\\": "/src"
+            }
+    }
+}
