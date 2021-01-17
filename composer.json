@@ -1,5 +1,5 @@
 {
-    "name": "mycomposer/assemble",
+    "name": "mymsjcomposer/assemble",
     "description": "is my first composer",
     "type": "library",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "minimum-stability": "dev",
-    
+
     "require": {},
 
     "autoload": {
